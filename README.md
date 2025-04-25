@@ -4,3 +4,5 @@ Desarrollador backend con enfoque en soluciones académicas y administrativas. M
 
 🛠️ Tecnologías: Python, Flask, Django, MySQL, HTML/CSS, Git, Linux
 📌 Intereses: desarrollo de sistemas educativos, automatización de procesos, seguridad de datos, y software libre.
+
+https://static.wikia.nocookie.net/disney/images/0/0d/Mighty_ducks_primary_logo.png/revision/latest?cb=20140810222650
